@@ -7,9 +7,8 @@ Packages to install(Process for executing the file):
 -->Install nltk using the command "pip install nltk".
 -->After installing, in nltk.stem, import PorterStemmer.
 -->Other libraries required are already present with python.
--->Now run the python file with the command "python3 Assign012019052.py" in terminal.
--->This file takes the dataset as a input and output will generated in the file
-   "Assign012019052-output.txt"
+-->Now run the python file with the command "python3 filename.py" in terminal.
+-->This file takes the dataset as a input and output will generated in the output file
 
 Datastructures used:
 Arrays(lists in python3) and Hashtables(dictionary in python3)
